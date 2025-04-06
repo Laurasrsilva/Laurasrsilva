@@ -9,7 +9,7 @@
 
 💡 Atualmente, sou mestranda na **UFMG** no curso de **Mestrado Profissional em Gestão de Serviços de Saúde**.  
 💻 Estudando e desenvolvendo habilidades em **Python**, com foco em aplicações na área da saúde.  
-📊 Interesso-me por temas como **engenharia clínica, governança clínica, custos em saúde e qualidade assistencial**.
+📊 Interesso-me por temas como **gestão en saúde, governança clínica, melhoria contínua dos processos e qualidade assistencial**.
 
 ---
 
